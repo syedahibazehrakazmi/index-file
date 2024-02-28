@@ -1,1 +1,7 @@
 home page of the website
+
+git init --> git repo initialization 
+git add filename --> add files in the staging area
+git status --> show git status
+git commit -m "commit msg" --> save the work with commit msg 
+git log --> see the commit history
